@@ -17,6 +17,7 @@ A simple command-line tool for downloading YouTube videos.
 
 pytube
 yt-dlp
+FFmpeg
 
 Usage
 To run the YouTube downloader, execute the following command in your terminal:
