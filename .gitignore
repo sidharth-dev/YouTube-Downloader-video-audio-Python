@@ -1,0 +1,10 @@
+
+*.exe
+/build/
+dist/
+*.shere
+/Lib/
+/include/
+/libs/
+/scripts/
+pyvenv.cfg
